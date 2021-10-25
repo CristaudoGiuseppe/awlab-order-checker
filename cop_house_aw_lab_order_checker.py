@@ -78,7 +78,7 @@ class awlab_order_checker(Thread):
     writeMutex = Lock()
     webhookMutex = Lock()
     delay = 2
-    webhook = "https://discord.com/api/webhooks/821454214240272384/oQtjciYP6sAvQgc2NorwSVrp9decsk75bBZj_eIQy57G6aiv-KR-A8xShhLNOlmvIPEe"
+    webhook = ""
     url_get = "https://www.aw-lab.com/controllaspedizione"
     url_post = "https://www.aw-lab.com/trackorder-result"
 
