@@ -5,16 +5,16 @@ Python scripts which check <a href="https://www.aw-lab.com/"><b>awlab</b></a> or
 # Libraries
 
 <ul>
-    <li>requests;</li> 
+    <li>requests;</li>
     <li>json;</li>
-    <li>random;</li> 
-    <li>csv;</li> 
-    <li>time;</li> 
+    <li>random;</li>
+    <li>csv;</li>
+    <li>time;</li>
     <li>threading;</li>
     <li>datetime;</li>
-    <li>bs4;</li> 
+    <li>bs4;</li>
     <li>discord_webhook;</li>
-
+</ul>
 # How to set up
 
 Add your discord webhook to line <b>81</b>. Add your order number to "orders.csv" and run the script using "python 'cop_house_aw_lab_order_checker.py'" command on your terminal.
